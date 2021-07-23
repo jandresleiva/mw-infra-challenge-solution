@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{C026A725-E168-4753-B2E7-59A9B0CE0B56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Ex3.cs" Line="157" Column="29" />
+      <File FileName="Ex2.cs" Line="28" Column="29" />
+      <File FileName="Entities/Store.cs" Line="55" Column="34" />
+      <File FileName="Connection.cs" Line="29" Column="70" />
+      <File FileName="Entities/Order.cs" Line="6" Column="18" />
+      <File FileName="Entities/PurchaseOrder.cs" Line="6" Column="18" />
+      <File FileName="Entities/PurchaseRequest.cs" Line="6" Column="18" />
+      <File FileName="Entities/StoreError.cs" Line="4" Column="18" />
+      <File FileName="Ex1.cs" Line="28" Column="71" />
+      <File FileName="Program.cs" Line="21" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebClient" expanded="True">
+            <Node name="WebClient" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
